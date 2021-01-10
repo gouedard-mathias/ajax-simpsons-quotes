@@ -31,7 +31,8 @@
     <div class="container">
         <h1 class="title">Simpson API</h1>
 
-        <div class="content" id="chuck-norris"></div>
+        <div class="content" id="simson"></div>
+        <button id="myBtn">Suivant</button>
     </div>
 </section>
 
@@ -41,6 +42,6 @@
     integrity="sha256-S1J4GVHHDMiirir9qsXWc8ZWw74PHHafpsHp5PXtjTs="
     crossorigin="anonymous"
 ></script>
-<script></script>
+<script src="script.js"></script>
 </body>
 </html>
